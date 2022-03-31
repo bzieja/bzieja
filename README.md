@@ -1,4 +1,11 @@
-### Hi there 👋
+## Welcome to my github page!
+
+### New projects:
+* In progres...
+
+### Old projects:
+* [epidemic-model-simulation](https://github.com/bzieja/epidemic-model-simulation) - Simulation of an epidemic at the AGH University of Science and Technology. Technologies: Java, Spring Boot, JavaFX.
+* [simple-grain-growth-algorithm](https://github.com/bzieja/simple-grain-growth-algorithm) - Naive grain growth algorithm with simple GUI. Technologies: Java, JavaFX
 
 <!--
 **bzieja/bzieja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
