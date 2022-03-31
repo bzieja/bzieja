@@ -1,7 +1,7 @@
 ## Welcome to my github page!
 
 ### New projects:
-* In progres...
+* In progress...
 
 ### Old projects:
 * [epidemic-model-simulation](https://github.com/bzieja/epidemic-model-simulation) - Simulation of an epidemic at the AGH University of Science and Technology. Technologies: Java, Spring Boot, JavaFX.
